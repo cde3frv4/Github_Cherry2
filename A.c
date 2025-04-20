@@ -5,4 +5,6 @@ void main(void)
     printf("Test is Test A-1");
 
     printf("Test is Test A-2");
+
+    printf("Test is Test A-3");
 }
